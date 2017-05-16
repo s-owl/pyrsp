@@ -1,7 +1,8 @@
 #-*-coding:utf-8-*-
 name = "H2SU" # 플레이어 이름
+i = 0
+
 def showRSP(mine, others):
-    i = 0
     if (i==0):
         i+=1
         return "paper"
